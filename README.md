@@ -16,7 +16,6 @@ yarn install
 Before you run this application, you need to run the server:
 ```
 yarn server
-
 ```
 (if you never used json server, install it globaly with 
 ```
