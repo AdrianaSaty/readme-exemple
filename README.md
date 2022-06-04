@@ -57,8 +57,7 @@ E com as bibliotecas:
 * [Bootstrap](https://getbootstrap.com/)
 * [Moment](https://momentjs.com/)
 
-### Próximos passos
-
+## Próximos passos
 - [ ] Aplicar tema light/dark
 - [ ] Criar página de contato
 - [ ] 75% de cobertura de testes
