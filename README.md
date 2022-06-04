@@ -1,17 +1,7 @@
-➥ ./gh-md-toc https://github.com/AdrianaSaty/readme-exemple/edit/main/README.md
-
 # Título do projeto
 
-Um parágrafo descrevendo o projeto, aqui dá para colocar uma imagem ou logo também! :)
-
-
-<!--ts-->
-   * [Instalação](#Instalação)
-   * [Tests](#testes)
-   * [Tecnologias & Libs](#Tecnologias-&-Libs)
-
-<!--te-->
-
+Um parágrafo descrevendo o projeto, aqui dá para colocar uma imagem ou logo! :)
+Coloque aqui também o link do projeto! 
 
 
 ## 🔧 Instalação
@@ -68,6 +58,11 @@ E com as bibliotecas:
 * [Bootstrap](https://getbootstrap.com/)
 * [Moment](https://momentjs.com/)
 
+### Próximos passos
+
+- [ ] Aplicar tema light/dark
+- [ ] Criar página de contato
+- [ ] 75% de cobertura de testes
 
 
 ## ✒️ Autor
@@ -80,10 +75,7 @@ Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
 ## 🎁 Agradecimentos (se for para teste técnico não colocar esse)
 
-* Conte a outras pessoas sobre este projeto 📢
-* Convide alguém da equipe para uma cerveja 🍺 
-* Obrigado publicamente 🤓.
-* etc.
+Agradeça quem te ajudou a fazer esse projeto! :)
 
 
 Template por [Adriana Saaty](https://github.com/AdrianaSaty/)
