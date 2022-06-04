@@ -1,108 +1,82 @@
 # Título do projeto
 
-Um parágrafo da descrição do projeto vai aqui
+Um parágrafo descrevendo o projeto, aqui dá para colocar uma imagem ou logo também! :)
+
 
 <!--ts-->
-   * [Sobre](#Sobre)
-   * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Instalação](#instalacao)
-   * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
+   * [Instalação](#Instalação)
    * [Tests](#testes)
-   * [Tecnologias](#tecnologias)
+   * [Tecnologias & Libs](#Tecnologias-&-Libs)
+
 <!--te-->
 
 
-## 🚀 Começando
 
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
+## 🔧 Instalação
+Coloque aqui todos os comandos que a pessoa precisa usar para poder rodar o projeto, por exemplo:
 
-Consulte **Implantação** para saber como implantar o projeto.
-
-### 📋 Pré-requisitos
-
-De que coisas você precisa para instalar o software e como instalá-lo?
+After you have cloned this repo, install the dependencies with:
 
 ```
-Dar exemplos
+yarn install
 ```
 
-### 🔧 Instalação
-
-Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
-
-Diga como essa etapa será:
+Before you run this application, you need to run the server:
+```
+yarn server
 
 ```
-Dar exemplos
+(if you never used json server, install it globaly with 
 ```
-
-E repita:
-
+yarn globall add json-server
 ```
-Até finalizar
-```
+)
 
-Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
-
-## ⚙️ Executando os testes
-
-Explicar como executar os testes automatizados para este sistema.
-
-### 🔩 Analise os testes de ponta a ponta
-
-Explique que eles verificam esses testes e porquê.
+Then you can then start the application running:
 
 ```
-Dar exemplos
+yarn start
 ```
 
-### ⌨️ E testes de estilo de codificação
+That's it. Just Access `http://localhost:3000` in your browser.
 
-Explique que eles verificam esses testes e porquê.
+
+
+## ⚙️ Testes
+
+Se tiver testes, explicar como executar os testes para este sistema e colocar o comando. Ex:
+
+If you want to run all tests, you can run:
+```
+yarn test
 
 ```
-Dar exemplos
-```
 
-## 📦 Desenvolvimento
 
-Adicione notas adicionais sobre como implantar isso em um sistema ativo
-
-## 🛠️ Construído com
+## 🛠️ Tecnologias & Libs
 
 Mencione as ferramentas que você usou para criar seu projeto
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - O framework web usado
-* [Maven](https://maven.apache.org/) - Gerente de Dependência
-* [ROME](https://rometools.github.io/rome/) - Usada para gerar RSS
+* [React](https://reactjs.org/) 
+* CSS
+* HTML
 
-## 🖇️ Colaborando
+E com as bibliotecas:
+* [ChartJS](https://www.chartjs.org/)
+* [Bootstrap](https://getbootstrap.com/)
+* [Moment](https://momentjs.com/)
 
-Por favor, leia o [COLABORACAO.md](https://gist.github.com/usuario/linkParaInfoSobreContribuicoes) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação.
 
-## 📌 Versão
 
-Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/suas/tags/do/projeto). 
-
-## ✒️ Autores
-
+## ✒️ Autor
 Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
-* **Um desenvolvedor** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/linkParaPerfil)
-* **Fulano De Tal** - *Documentação* - [fulanodetal](https://github.com/linkParaPerfil)
+* **[Nome do dev](https://github.com/linkParaPerfil)** - *Função*
+* **[Nome do dev](https://github.com/linkParaPerfil)** - *Função*
 
-Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
 
-## 📄 Licença
 
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
-
-## 🎁 Expressões de gratidão
+## 🎁 Agradecimentos (se for para teste técnico não colocar esse)
 
 * Conte a outras pessoas sobre este projeto 📢
 * Convide alguém da equipe para uma cerveja 🍺 
@@ -110,5 +84,4 @@ Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](h
 * etc.
 
 
----
-⌨️ com ❤️ por [Armstrong Lohãns](https://gist.github.com/lohhans) 😊
+Template por [Adriana Saaty](https://github.com/AdrianaSaty/)
