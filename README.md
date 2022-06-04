@@ -1,7 +1,11 @@
 # Título do projeto
 
-Um parágrafo descrevendo o projeto, aqui dá para colocar uma imagem ou logo! :)
-Coloque aqui também o link do projeto! 
+1 - Um parágrafo descrevendo o projeto, aqui dá para colocar uma imagem ou logo! :)
+2- Coloque aqui o link do projeto em produção!
+3- Lista com as funcionalidades:
+
+- [X] Funcionalidade tal
+- [X] Funcionalidade Y
 
 
 ## 🔧 Instalação
