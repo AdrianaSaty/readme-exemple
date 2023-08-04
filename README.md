@@ -1,8 +1,12 @@
+[![en](https://img.shields.io/badge/README%20in-english-red.svg)](../main/README.en.md)
+
 # Título do projeto
 
 1 - Um parágrafo descrevendo o projeto, aqui dá para colocar uma imagem ou logo! :)
-2- Coloque aqui o link do projeto em produção!
-3- Lista com as funcionalidades:
+
+2 - Coloque aqui o link do projeto em produção!
+
+3 - Lista com as funcionalidades:
 
 - [X] Funcionalidade tal
 - [X] Funcionalidade Y
@@ -42,9 +46,9 @@ That's it. Just Access `http://localhost:3000` in your browser.
 Se tiver testes, explicar como executar os testes para este sistema e colocar o comando. Ex:
 
 If you want to run all tests, you can run:
+
 ```
 yarn test
-
 ```
 
 
@@ -80,4 +84,4 @@ Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 Agradeça quem te ajudou a fazer esse projeto! :)
 
 
-Template por [Adriana Saaty](https://github.com/AdrianaSaty/)
+Template por [Adriana Saty](https://github.com/AdrianaSaty/)
